@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0820113c-f981-4504-bc13-039bea617402" name="Changes" comment="Det här är extra arv-uppgift" />
+    <list default="true" id="0820113c-f981-4504-bc13-039bea617402" name="Changes" comment="Arv uppgift">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/English.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/English.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spanish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spanish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Swedish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Swedish.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2glux9kKttbUbkl6RyW7T0LS6NR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -66,6 +72,7 @@
       <updated>1716284733740</updated>
       <workItem from="1716284735083" duration="4676000" />
       <workItem from="1716292548610" duration="378000" />
+      <workItem from="1716292935889" duration="3161000" />
     </task>
     <task id="LOCAL−00001" summary="Det här är extra arv-uppgift">
       <option name="closed" value="true" />
@@ -74,7 +81,28 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1716292729048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Arv uppgift">
+      <option name="closed" value="true" />
+      <created>1716294104153</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1716294104154</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Arv uppgift">
+      <option name="closed" value="true" />
+      <created>1716294690951</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1716294690951</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Arv uppgift">
+      <option name="closed" value="true" />
+      <created>1716295264079</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1716295264079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Det här är extra arv-uppgift" />
-    <option name="LAST_COMMIT_MESSAGE" value="Det här är extra arv-uppgift" />
+    <MESSAGE value="Arv uppgift" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arv uppgift" />
   </component>
 </project>

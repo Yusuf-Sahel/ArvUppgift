@@ -6,11 +6,13 @@ public class Swedish extends Human {
 
     }
 
+
     public String getNationalSong(){
         return "Du gamla du fria du";
     }
 
+    @Override
     public void talk(){
-        System.out.println("Hej mitt namn är" + name + "Eres viejo eres libre");
+        System.out.println("Hej mitt namn är: " + name + "vår nationalsång är: " + getNationalSong()+"");
     }
 }

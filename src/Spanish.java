@@ -8,11 +8,13 @@ public class Spanish extends Human{
 
     }
 
+
     public String getNationalSong(){
         return "Du gamla du fria";
     }
 
+    @Override
     public void talk(){
-        System.out.println("Hej mitt namn är" + name + "Eres viejo eres libre");
+        System.out.println("Hola, mi nombre es: " + name + "y nuestro himno nacional es: " + getNationalSong()+"");
     }
 }

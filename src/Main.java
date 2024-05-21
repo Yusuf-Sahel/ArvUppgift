@@ -6,9 +6,9 @@ public class Main {
     Human spanish = new Spanish("Kaviar");
     Human english = new English("Karin");
 
-    Swedish.talk();
-    Spanish.talk();
-    English.talk();
+    swedish.talk();
+    spanish.talk();
+    spanish.talk();
 
 
 
