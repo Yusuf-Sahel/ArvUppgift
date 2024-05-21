@@ -7,7 +7,7 @@ public abstract class Human {
         this.name = name;
     }
 
-    public abstract String getNationalsongTitle();
+    public abstract String getNationalsong();
 
     public abstract void talk();
 }
