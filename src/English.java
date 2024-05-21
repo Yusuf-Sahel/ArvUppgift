@@ -12,7 +12,7 @@ public class English extends Human{
     }
 
     public void talk(){
-        System.out.println("Hej mitt namn är" + name + "Eres viejo eres libre");
+        System.out.println("Hello my name is " + name + "and our national anthem is ");
     }
 
 }
