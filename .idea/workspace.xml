@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0820113c-f981-4504-bc13-039bea617402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/English.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spanish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swedish.java" afterDir="false" />
-    </list>
+    <list default="true" id="0820113c-f981-4504-bc13-039bea617402" name="Changes" comment="Det här är extra arv-uppgift" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,11 +65,23 @@
       <option name="presentableId" value="Default" />
       <updated>1716284733740</updated>
       <workItem from="1716284735083" duration="4676000" />
-      <workItem from="1716292548610" duration="10000" />
+      <workItem from="1716292548610" duration="378000" />
     </task>
+    <task id="LOCAL−00001" summary="Det här är extra arv-uppgift">
+      <option name="closed" value="true" />
+      <created>1716292729048</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1716292729048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Det här är extra arv-uppgift" />
+    <option name="LAST_COMMIT_MESSAGE" value="Det här är extra arv-uppgift" />
   </component>
 </project>
